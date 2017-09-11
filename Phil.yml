@@ -9,4 +9,3 @@
       host: '{{ inventory_hostname }}'
       commands:
       - show ip int br
-
